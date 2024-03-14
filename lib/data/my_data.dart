@@ -1,1 +1,1 @@
-String API_KEY = "377f837f7835f6994906b14bb245442d";
+String API_KEY = "MY_API_KEY";
